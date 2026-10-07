@@ -1,4 +1,4 @@
-# 🚀 Notes App — Technical Recruitment Task
+# 🚀 Notes App 
 
 A clean, modern, and intuitive cross-platform Notes Application built for capturing, organizing, and managing thoughts effortlessly. Features full CRUD capability, live Markdown formatting, category-based filtering, pinning, dark/light theme options, and offline persistence.
 
